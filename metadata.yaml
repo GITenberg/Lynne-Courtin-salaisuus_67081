@@ -1,0 +1,36 @@
+_repo: Lynne-Courtin-salaisuus_67081
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Fletcher, J. S. (Joseph Smith)
+    alias: Fletcher, Joseph Smith
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '1761'
+    url: http://www.gutenberg.org/2009/agents/1761
+    wikipedia: https://en.wikipedia.org/wiki/J._S._Fletcher
+description: ''
+gutenberg_issued: '2022-01-02'
+identifiers:
+  gutenberg: '67081'
+language: fi
+pgterms:marc905: 20211218091629fletcher
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lynne Courtin salaisuus
+url: http://www.gutenberg.org/ebooks/67081
